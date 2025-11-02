@@ -3,6 +3,11 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+'''
+    Prototype-Guided Physics-Modulated Perceiver for Human Activity Recognition
+    Gyuyeon Lim and Myung-Kyu Yi
+'''
+
 def get_sensor_groups(acc_axes, gyro_axes, mag_axes, acc_mod, gyro_mod, mag_mod):
     """Define sensor groups based on hyperparameters."""
     return {
