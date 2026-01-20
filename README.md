@@ -1,7 +1,7 @@
 # P2-Perceiver
 (paper source) Prototype-Guided Physics-Modulated Perceiver for Human Activity Recognition
 
-<p align="center"><img src='overall_architecture.png'></p>
+<p align="center"><img src='overall_architecture_n.png'></p>
 
 This repository implements the methodology proposed in the paper "Prototype-Guided Physics-Modulated Perceiver for Human Activity Recognition".
 
